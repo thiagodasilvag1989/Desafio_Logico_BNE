@@ -1,0 +1,13 @@
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\bin\Debug\netcoreapp3.1\Prova_Logica_BNE_01.exe
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\bin\Debug\netcoreapp3.1\Prova_Logica_BNE_01.deps.json
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\bin\Debug\netcoreapp3.1\Prova_Logica_BNE_01.runtimeconfig.json
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\bin\Debug\netcoreapp3.1\Prova_Logica_BNE_01.runtimeconfig.dev.json
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\bin\Debug\netcoreapp3.1\Prova_Logica_BNE_01.dll
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\bin\Debug\netcoreapp3.1\Prova_Logica_BNE_01.pdb
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.csprojAssemblyReference.cache
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.AssemblyInfo.cs
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.dll
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.pdb
+C:\Users\power\source\repos\Prova_Logica_BNE_01\Prova_Logica_BNE_01\obj\Debug\netcoreapp3.1\Prova_Logica_BNE_01.genruntimeconfig.cache
